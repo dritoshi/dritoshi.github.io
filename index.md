@@ -1,8 +1,8 @@
 ## Itoshi NIKAIDO Ph.D.
-- Professor, [Department of Functional Genome Informatics, Division of Medical Genomics, Medical Research Institute
+- Professor, [Department of Functional Genome Informatics, Division of Biological Data Science, Medical Research Institute
 Tokyo Medical and Dental University (TMDU)](https://www.nikaidolab.org/)
 - Team Leader, [Labratory for Bioinformatics Research, RIKEN BDR](https://bit.riken.jp/)
-- Adovisor, [Knowledge Palette, Inc](https://www.knowledge-palette.com/en/)
+- Scientific Adovisor, [Knowledge Palette, Inc](https://www.knowledge-palette.com/en/)
 
 ## My interest
 A multicellular organism is orchestrated by cell growth, death, differentiation, and communication at the single-cell level. To understand various crucial biological phenomena, we should massively perturb and measure transcriptomes and epigenomes at the single-cell level.
