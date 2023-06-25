@@ -1,1 +1,8 @@
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+kramdown:
+  # 数式はKaTeXでレンダリングする
+  math_engine: katex
+  # 数式で'が別文字に変換するのを防ぐための設定
+  smart_quotes: ["apos", "apos", "quot", "quot"]
